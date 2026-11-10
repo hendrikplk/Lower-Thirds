@@ -1,0 +1,13 @@
+{
+  "name": "lowerthird-studio",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Lokales Lower-Third-System für OBS und Bitfocus Companion",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.21.2",
+    "jszip": "^3.10.1",
+    "ws": "^8.18.0"
+  }
+}
